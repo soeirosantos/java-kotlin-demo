@@ -1,0 +1,6 @@
+---
+applications:
+  - name: nyt-demo
+    path: target/kotlin-demo-0.0.1-SNAPSHOT.jar
+    services:
+      - mysql
